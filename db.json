@@ -2,17 +2,17 @@
 	"plats": [{
 			"id": 1,
 			"plat": "Nouille",
-			"images": "as1.jpg"
+			"images": "nouille.jpeg"
 		},
 		{
 			"id": 2,
 			"plat": "Riz cantonnais",
-			"images": "as2.jpg"
+			"images": "rizcantonnais.jpeg"
 		},
 		{
 			"id": 3,
 			"plat": "Hors d'oeuvre",
-			"images": "as3.jpg"
+			"images": "ho.jpeg"
 		}
 	],
 	"comments": [{
