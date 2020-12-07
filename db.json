@@ -2,22 +2,38 @@
 	"plats": [{
 			"id": 1,
 			"plat": "Nouille",
-			"images": "nouille.jpeg"
+			"images": "nouille.jpeg",
+			"prix": "6,50€",
+			"description": "Nouille sauté avec des oeufs"
+		
+		
 		},
 		{
 			"id": 2,
 			"plat": "Riz cantonnais",
-			"images": "rizcantonnais.jpeg"
+			"images": "rizcantonnais.jpeg",
+			"prix": "6,50€",
+			"description": "Riz sauté avec jambon, oeuf, petits pois et carottes"
+			
+			
 		},
 		{
 			"id": 3,
 			"plat": "Hors d'oeuvre",
-			"images": "ho.jpeg"
+			"images": "ho.jpeg",
+			"prix": "6,50€",
+			"description": "Nems, raviolis et samoussas"
+			
+			
 		},
 		{
 			"id": 4,
 			"plat": "Bo Bun Boeuf",
 			"images": "bobunboeuf.jpeg"
+			"prix": "6,50€",
+			"description": "Bo bun avec viande de boeuf avec des nems"
+			
+			
 		}
 		
 	],
