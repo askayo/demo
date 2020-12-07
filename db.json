@@ -1,37 +1,35 @@
 {
-   "plats":[
-      {
-         "id":1,
-         "plat":"Nouille",
-         "images":"as1.jpg"
-      },
-      {
-         "id":2,
-         "plat":"Riz cantonnais",
-         "images":"as2.jpg"
-      },
-      {
-         "id":3,
-         "plat":"Hors d'oeuvre",
-         "images":"as3.jpg"
-      }
-   ],
-   "comments":[
-      {
-         "id":1,
-         "body":"some comment",
-         "postId":1
-      },
-      {
-         "id":2,
-         "body":"some comment",
-         "postId":1
-      }
-   ],
-   "profile":{
-      "name":"typicode"
-   },
-   "ezaeza":{
-      "name":"typicode"
-   }
+	"plats": [{
+			"id": 1,
+			"plat": "Nouille",
+			"images": "as1.jpg"
+		},
+		{
+			"id": 2,
+			"plat": "Riz cantonnais",
+			"images": "as2.jpg"
+		},
+		{
+			"id": 3,
+			"plat": "Hors d'oeuvre",
+			"images": "as3.jpg"
+		}
+	],
+	"comments": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	},
+	"ezaeza": {
+		"name": "typicode"
+	}
 }
